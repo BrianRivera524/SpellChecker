@@ -1,0 +1,7 @@
+This is an example sentence with a few misspelled words. 
+It also has some punctuation and numbers 123.
+
+Can you correct the errors and produce a cleaned up version?
+This is a test of the spelling checker program. 
+
+Hopefully it works well!

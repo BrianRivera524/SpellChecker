@@ -1,0 +1,7 @@
+This is an exmple sentence with a few mispelled words. 
+It also has some puncuation and numbers 123.
+
+Can you corect the errors and produse a cleaned up version?
+This is a test of the speling checker program. 
+
+Hopefully it works wel!
